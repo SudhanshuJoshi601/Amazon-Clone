@@ -28,7 +28,7 @@ searchInput.addEventListener("keyup", () => {
 
 });
 
-// Cart Counter
+// Cart product counter
 
 let cartCount = 0;
 
